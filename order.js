@@ -1,13 +1,13 @@
 const supplyMenu = [
-  { name: "Glossy", image: "images/order/glossy.png", price: 5 },
-  { name: "Matte", image: "images/order/matte.png", price: 70 },
-  { name: "Textured", image: "images/order/textured.png", price: 95 },
-  { name: "Hewlett Packard", image: "images/order/hpp.png", price: 155 },
-  { name: "Epson", image: "images/order/epep.png", price: 120 },
-  { name: "Canon", image: "images/order/can.png", price: 195 },
-  { name: "Saddle Stitch", image: "images/order/saddle.png", price: 60 },
-  { name: "Heated Spine", image: "images/order/spine.png", price: 50 },
-  { name: "Wire", image: "images/order/wired.png", price: 30 },
+  { name: "Glossy", image: "order/glossy.png", price: 5 },
+  { name: "Matte", image: "order/matte.png", price: 70 },
+  { name: "Textured", image: "order/textured.png", price: 95 },
+  { name: "Hewlett Packard", image: "order/hpp.png", price: 155 },
+  { name: "Epson", image: "order/epep.png", price: 120 },
+  { name: "Canon", image: "order/can.png", price: 195 },
+  { name: "Saddle Stitch", image: "order/saddle.png", price: 60 },
+  { name: "Heated Spine", image: "order/spine.png", price: 50 },
+  { name: "Wire", image: "order/wired.png", price: 30 },
 ]
 
 const servicesMenu = [
