@@ -237,8 +237,8 @@ body {
 .main-card.card .card-body .form .form-row {
   display: grid;
   grid-template-columns: 50% 50% 1fr 1fr;
-  justify-items: end;
-  
+  justify-items: start;
+  padding: 10px;
   align-items: center;
   margin-bottom: 1rem;
 }
