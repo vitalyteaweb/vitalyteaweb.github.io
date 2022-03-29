@@ -13,34 +13,34 @@ const supplyMenu = [
 ]
 
 const coldDrinksMenu = [
-  { name: "Mocha Frappe", image: "images/order/c1.png", price: 120 },
-  { name: "Oreo Frappe", image: "images/order/c2.png", price: 130 },
-  { name: "Cold Coffee", image: "images/order/c3.png", price: 170 },
-  { name: "Milktea", image: "images/order/c4.png", price: 85 },
-  { name: "Cold Ice Tea", image: "images/order/c5.png", price: 90 },
-  { name: "Lemon Tea", image: "images/order/c6.png", price: 50 },
-  { name: "Softdrinks", image: "images/order/c7.png", price: 25 },
+  { name: "Mocha Frappe", image: "order/c1.png", price: 120 },
+  { name: "Oreo Frappe", image: "order/c2.png", price: 130 },
+  { name: "Cold Coffee", image: "order/c3.png", price: 170 },
+  { name: "Milktea", image: "order/c4.png", price: 85 },
+  { name: "Cold Ice Tea", image: "order/c5.png", price: 90 },
+  { name: "Lemon Tea", image: "order/c6.png", price: 50 },
+  { name: "Softdrinks", image: "order/c7.png", price: 25 },
 ]
 
 const warmDrinksMenu = [
-  { name: "Coffee", image: "images/order/w1.png", price: 130 },
-  { name: "Hot Chocolate", image: "images/order/w2.png", price: 190 },
-  { name: "Hot Tea", image: "images/order/w3.png", price: 170 },
-  { name: "Black Coffee", image: "images/order/w4.png", price: 180 },
-  { name: "Matcha", image: "images/order/w5.png", price: 120 },
+  { name: "Coffee", image: "order/w1.png", price: 130 },
+  { name: "Hot Chocolate", image: "order/w2.png", price: 190 },
+  { name: "Hot Tea", image: "order/w3.png", price: 170 },
+  { name: "Black Coffee", image: "order/w4.png", price: 180 },
+  { name: "Matcha", image: "order/w5.png", price: 120 },
 ]
 
 const sandwichesMenu = [
-  { name: "Double Patty Burger", image: "images/order/sc1.png", price: 220 },
-  { name: "Vegetable Panini", image: "images/order/sc2.png", price: 250 },
-  { name: "Bacon Clubhouse", image: "images/order/sc3.png", price: 230 },
-  { name: "Ham Sandwich", image: "images/order/sc4.png", price: 180 },
-  { name: "Chicken Burger", image: "images/order/sc5.png", price: 200 },
-  { name: "Roasted Pork Subway", image: "images/order/sc6.png", price: 220 },
-  { name: "Chicken Halfway", image: "images/order/sc7.png", price: 190 },
-  { name: "Salami Sandwich", image: "images/order/sc8.png", price: 150 },
-  { name: "Egg Sandwich", image: "images/order/sc9.png", price: 180 },
-  { name: "Clubhouse Halfway", image: "images/order/sc10.png", price: 220 },
+  { name: "Double Patty Burger", image: "order/sc1.png", price: 220 },
+  { name: "Vegetable Panini", image: "order/sc2.png", price: 250 },
+  { name: "Bacon Clubhouse", image: "order/sc3.png", price: 230 },
+  { name: "Ham Sandwich", image: "order/sc4.png", price: 180 },
+  { name: "Chicken Burger", image: "order/sc5.png", price: 200 },
+  { name: "Roasted Pork Subway", image: "order/sc6.png", price: 220 },
+  { name: "Chicken Halfway", image: "order/sc7.png", price: 190 },
+  { name: "Salami Sandwich", image: "order/sc8.png", price: 150 },
+  { name: "Egg Sandwich", image: "order/sc9.png", price: 180 },
+  { name: "Clubhouse Halfway", image: "order/sc10.png", price: 220 },
 ]
 
 const menu = {
